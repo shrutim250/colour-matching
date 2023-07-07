@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Spanish Vocabulary</title>
+  Spanish Vocabulary
   <link rel="stylesheet" href="./style.css" />
 </head>
 
