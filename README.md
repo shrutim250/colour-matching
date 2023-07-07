@@ -31,10 +31,4 @@
 
 
 
-
-
-    color:orange
-}
-#yellow{
-    color:yellow
-}
+Enjoy the session...
